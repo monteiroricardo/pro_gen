@@ -1,16 +1,14 @@
-# pro_gen
+# ProGen
 
-A new Flutter project.
+Solução projetada e desenvolvida especialmente para concorrer a uma vaga na empresa Confere ♥
 
-## Getting Started
+### APK
 
-This project is a starting point for a Flutter application.
+  Para instalar essa solução em seu smartphone **android** basta clicar no botão de download abaixo ↓
+  > OBS: Você está fazendo download de um app fora da Loja de aplicativos, está ação requer uma permissão especial de fontes desconhecidas, habilite essa opção em seu smartphone para proseguir! 
+  
+  <a href="https://github.com/monteiroricardo/pro_gen/blob/master/github/pro_gen.apk">
+<img src="https://github.com/monteiroricardo/CALC_IMC/blob/master/arquivos/apk_btn.png" width="200" height="50" />
+</ a>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Feito com ♥ por Ricardo Monteiro  [Entrar em contato!](https://www.linkedin.com/in/ricardohmonteiro/)
